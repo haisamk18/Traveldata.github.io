@@ -1,0 +1,13 @@
+.upper {
+    height: 100px;
+    display: flex;
+    width:90%;
+   
+    background-color: #F6F7F1;
+    align-items: center;
+    justify-content: center;
+}
+.navimg {
+    width: 100px;
+  
+}

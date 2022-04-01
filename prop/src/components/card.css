@@ -1,0 +1,42 @@
+.card {
+    height: 400px;
+    width: 800px;
+  
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    
+    align-items: center;
+}
+
+.lcimg {
+    width: 20px;
+   
+}
+.card-imgcontainer {
+    width: 200px;
+    height: 300px;
+    background-color: black;
+    display: flex;
+    margin-left: 30px;
+    background-size: cover;
+    border-radius: 30px;
+}
+.mainimg {
+    width: 250px;
+    border-radius: 30px;
+    background-size: cover;
+}
+.card-content {
+    border-radius: 20px;
+    width: 500px;
+    height: 300px;
+    background-color: aquamarine;
+    
+}
+h1,h3,p {
+    text-align: left;
+}
+a {
+    margin-left: 10px;
+}
